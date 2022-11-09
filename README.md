@@ -1,5 +1,5 @@
-## C.G.P.A Web Calculator
-#
+## C.G.P.A Web Calculator/ Result Processing App
+### Get your results fast and accurately with our result processing application
 
 > ## Table of content
 
